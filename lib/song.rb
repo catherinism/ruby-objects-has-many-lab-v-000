@@ -8,7 +8,7 @@ end
 
 def artist_name
   if self.artist
-    self.author.name
+    self.artist.name
   else
     nil
   end
