@@ -7,8 +7,8 @@ class Artist
     @songs = []
   end
 
-def add_song(name)
-  song = name
+def add_song(song)
+  song = song
   @songs = song
 
 end
