@@ -7,7 +7,7 @@ def initialize(name)
 end
 
 def artist_name
-  if self.author
+  if self.artist
     self.author.name
   else
     nil
