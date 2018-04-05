@@ -22,5 +22,5 @@ def add_song_by_name(name)
 
  def self.song_count
 
-
+end
 end
