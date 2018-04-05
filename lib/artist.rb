@@ -21,5 +21,6 @@ def add_song_by_name(name)
  end
 
  def self.count
+   counter = 0
 
 end
