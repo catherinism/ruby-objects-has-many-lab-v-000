@@ -20,4 +20,6 @@ def add_song_by_name(name)
    s
  end
 
+ def self.count
+
 end
