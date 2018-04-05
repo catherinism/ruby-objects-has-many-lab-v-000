@@ -1,7 +1,7 @@
 require 'pry'
 
 class Author
-  attr_accessor :name, :posts, :author
+  attr_accessor :name, :posts, :author, :title
 
   def initialize(name)
     @name = name
